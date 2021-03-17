@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "You miss one hundred percent of the commits you don't make!"
 
 ---
 
